@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name m5stackoutput-rescue)(type Legacy)(uri ${KIPRJMOD}/m5stackoutput-rescue.lib)(options "")(descr ""))
+  (lib (name m5stackoutput_v2-rescue)(type Legacy)(uri ${KIPRJMOD}/m5stackoutput_v2-rescue.lib)(options "")(descr ""))
+  (lib (name mcp23008-m5stack)(type Legacy)(uri ${KIPRJMOD}/mcp23008-m5stack.lib)(options "")(descr ""))
+  (lib (name m5stackoutput_v2-cache)(type Legacy)(uri ${KIPRJMOD}/m5stackoutput_v2-cache.lib)(options "")(descr ""))
+  (lib (name m5stackoutput-cache)(type Legacy)(uri ${KIPRJMOD}/m5stackoutput-cache.lib)(options "")(descr ""))
+  (lib (name m5stackoutput)(type Legacy)(uri ${KIPRJMOD}/m5stackoutput.lib)(options "")(descr ""))
+  (lib (name m5stack)(type Legacy)(uri ${KIPRJMOD}/m5stack.lib)(options "")(descr ""))
+)
