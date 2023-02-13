@@ -5,6 +5,10 @@
   )
 
   (paper "A4")
+  (title_block
+    (comment 4 "AISLER Project ID: BDUZAWGN")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -43,7 +47,6 @@
       (dielectric_constraints no)
     )
     (pad_to_mask_clearance 0)
-    (solder_mask_min_width 0.25)
     (aux_axis_origin 118.9 151.57)
     (grid_origin 118.9 151.57)
     (pcbplotparams
@@ -463,9 +466,9 @@
     (fp_line (start 2.5 -1.25) (end 2.5 1.25) (layer "F.Fab") (width 0.1) (tstamp 22767846-58db-4267-b3d5-dd20b238dcf0))
     (fp_line (start -2.5 -1.25) (end 2.5 -1.25) (layer "F.Fab") (width 0.1) (tstamp 5aa4ce0b-6a97-42d6-8501-e87acaf39e8d))
     (fp_line (start -2.5 1.25) (end -2.5 -1.25) (layer "F.Fab") (width 0.1) (tstamp 8d7a629f-356e-48de-9da1-4c2243dcc419))
-    (pad "1" smd roundrect locked (at -2.25 0 135) (size 1.35 2.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.185185)
+    (pad "1" smd roundrect locked (at -2.25 0 135) (size 1.35 2.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1851851852)
       (net 56 "/Relay_NO") (pintype "passive") (tstamp 591650fb-7555-474c-a888-941b8f64aa9d))
-    (pad "2" smd roundrect locked (at 2.25 0 135) (size 1.35 2.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.185185)
+    (pad "2" smd roundrect locked (at 2.25 0 135) (size 1.35 2.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1851851852)
       (net 11 "/Fet0") (pintype "passive") (tstamp 426dcdab-2988-4c3b-a00a-1ddd1cd7fcdc))
     (model "${KISYS3DMOD}/Resistor_SMD.3dshapes/R_2010_5025Metric.wrl"
       (offset (xyz 0 0 0))
@@ -1888,9 +1891,9 @@
     (fp_line (start -2.5 1.25) (end -2.5 -1.25) (layer "F.Fab") (width 0.1) (tstamp 2d463be6-b089-404a-9cf4-a4e47654186b))
     (fp_line (start 2.5 -1.25) (end 2.5 1.25) (layer "F.Fab") (width 0.1) (tstamp 5e25cd53-5007-4214-b554-2d45d3076f55))
     (fp_line (start -2.5 -1.25) (end 2.5 -1.25) (layer "F.Fab") (width 0.1) (tstamp 9487c3f3-22a3-4367-b88d-78d77ead89ee))
-    (pad "1" smd roundrect locked (at -2.25 0 90) (size 1.35 2.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.185185)
+    (pad "1" smd roundrect locked (at -2.25 0 90) (size 1.35 2.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1851851852)
       (net 57 "/Relay_COM") (pintype "passive") (tstamp 8aad9656-4623-43ec-8e86-357a648bee48))
-    (pad "2" smd roundrect locked (at 2.25 0 90) (size 1.35 2.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.185185)
+    (pad "2" smd roundrect locked (at 2.25 0 90) (size 1.35 2.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1851851852)
       (net 8 "+5V") (pintype "passive") (tstamp 13c1d70b-98c4-4cb5-baa2-00340e7fbfd0))
     (model "${KISYS3DMOD}/Resistor_SMD.3dshapes/R_2010_5025Metric.wrl"
       (offset (xyz 0 0 0))
@@ -6289,7 +6292,7 @@
     (fp_line (start -3.54 -10) (end 39.1 -10) (layer "B.Fab") (width 0.1) (tstamp e6b37bba-1c94-44a1-8871-61885df33d32))
     (fp_line (start 0.95 2) (end 0 0.5) (layer "B.Fab") (width 0.1) (tstamp eeb2e64b-a35e-4dfb-a04e-338d2c375e83))
     (fp_line (start 39.1 -10) (end 39.1 2) (layer "B.Fab") (width 0.1) (tstamp fd9d8cf4-1617-4791-960f-b9986487988e))
-    (pad "1" thru_hole roundrect locked (at 0 0 180) (size 2.08 3.6) (drill 1.4) (layers *.Cu *.Mask) (roundrect_rratio 0.120192)
+    (pad "1" thru_hole roundrect locked (at 0 0 180) (size 2.08 3.6) (drill 1.4) (layers *.Cu *.Mask) (roundrect_rratio 0.1201918269)
       (net 57 "/Relay_COM") (pinfunction "Pin_1") (pintype "passive") (tstamp 1b2f463d-aa2f-4640-82bf-4a6c1230164d))
     (pad "2" thru_hole oval locked (at 5.08 0 180) (size 2.08 3.6) (drill 1.4) (layers *.Cu *.Mask)
       (net 56 "/Relay_NO") (pinfunction "Pin_2") (pintype "passive") (tstamp f598ed28-3bfe-4356-849e-6cdd3db962b9))
