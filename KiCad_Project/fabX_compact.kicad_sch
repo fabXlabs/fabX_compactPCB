@@ -4506,14 +4506,14 @@
     (property "Value" "100k" (at 157.48 123.19 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 157.48 126.365 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 157.48 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 157.48 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 251c15f6-b704-4054-8914-ee0335195e37))
     (pin "1" (uuid 23c4ac42-b2cd-475e-aee8-cbe42278108a))
+    (pin "2" (uuid 251c15f6-b704-4054-8914-ee0335195e37))
     (instances
       (project "fabX_compact"
         (path "/96e7763e-a9d6-4b4e-a64a-339cb6be3f1c"
@@ -4664,14 +4664,14 @@
     (property "Value" "100k" (at 147.955 123.19 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 147.955 126.365 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 147.955 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 147.955 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid d42d9e3c-a147-4797-bb22-cfe31f0920fd))
     (pin "1" (uuid e5e0c6f0-c4a7-480e-915c-74546cd83a51))
+    (pin "2" (uuid d42d9e3c-a147-4797-bb22-cfe31f0920fd))
     (instances
       (project "fabX_compact"
         (path "/96e7763e-a9d6-4b4e-a64a-339cb6be3f1c"
@@ -5439,14 +5439,14 @@
     (property "Value" "100k" (at 146.05 123.19 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 146.05 126.365 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 146.05 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 146.05 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 9c8c67b9-1f02-400b-b49e-baa3e8d6690c))
     (pin "1" (uuid ef14cca1-2348-417c-bfe6-95f269d88001))
+    (pin "2" (uuid 9c8c67b9-1f02-400b-b49e-baa3e8d6690c))
     (instances
       (project "fabX_compact"
         (path "/96e7763e-a9d6-4b4e-a64a-339cb6be3f1c"
@@ -5788,8 +5788,8 @@
     (property "Mnf#" "AC0603FR-0710KL" (at 250.19 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eac4eed0-a38d-47f8-af2e-fe7d7b7a71ef))
-    (pin "2" (uuid 7e9e4d79-1eca-4494-a6e0-4ec5a6897063))
+    (pin "1" (uuid 0c7e37c8-2376-4952-bdc3-0c1cf33f5e7f))
+    (pin "2" (uuid 6e838361-1c93-404d-aa7d-8f9455840940))
     (instances
       (project "fabX_compact"
         (path "/96e7763e-a9d6-4b4e-a64a-339cb6be3f1c"
@@ -5808,14 +5808,14 @@
     (property "Value" "100k" (at 153.67 123.19 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 153.67 126.365 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 153.67 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 153.67 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 67165c56-62a6-41a1-b195-dfac7d22933a))
     (pin "1" (uuid c56b8f9e-d5be-41ce-9b3f-e50e4fe2d443))
+    (pin "2" (uuid 67165c56-62a6-41a1-b195-dfac7d22933a))
     (instances
       (project "fabX_compact"
         (path "/96e7763e-a9d6-4b4e-a64a-339cb6be3f1c"
@@ -6436,14 +6436,14 @@
     (property "Value" "100k" (at 155.448 123.19 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 155.575 126.365 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 155.575 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 155.575 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid ca7a75ab-052b-4dd7-8348-6e10e31046ac))
     (pin "1" (uuid 4b90e0f6-5ad8-423b-8419-bc5ca6b78bdd))
+    (pin "2" (uuid ca7a75ab-052b-4dd7-8348-6e10e31046ac))
     (instances
       (project "fabX_compact"
         (path "/96e7763e-a9d6-4b4e-a64a-339cb6be3f1c"
@@ -6534,14 +6534,14 @@
     (property "Value" "100k" (at 144.145 123.19 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 144.145 126.365 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 144.145 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 144.145 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 7eddf5d1-3d2d-4246-af1b-586983c7c4fe))
     (pin "1" (uuid ad21df1d-1f70-43e1-be31-7143d8986240))
+    (pin "2" (uuid 7eddf5d1-3d2d-4246-af1b-586983c7c4fe))
     (instances
       (project "fabX_compact"
         (path "/96e7763e-a9d6-4b4e-a64a-339cb6be3f1c"
@@ -6898,14 +6898,14 @@
     (property "Value" "100k" (at 151.765 123.19 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 151.765 126.365 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 151.765 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 151.765 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 385dd2d7-b0a9-4c76-9098-e4436435e296))
     (pin "1" (uuid 92f95b37-fbed-4c00-b41c-cc6775eee4be))
+    (pin "2" (uuid 385dd2d7-b0a9-4c76-9098-e4436435e296))
     (instances
       (project "fabX_compact"
         (path "/96e7763e-a9d6-4b4e-a64a-339cb6be3f1c"
@@ -6949,14 +6949,14 @@
     (property "Value" "100k" (at 149.86 123.19 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 149.86 126.365 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 149.86 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 149.86 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 89eabc1f-bb34-43f9-9895-a3d0c5c59d41))
     (pin "1" (uuid f085f5f7-b0b8-4b0f-b043-564d0a99760c))
+    (pin "2" (uuid 89eabc1f-bb34-43f9-9895-a3d0c5c59d41))
     (instances
       (project "fabX_compact"
         (path "/96e7763e-a9d6-4b4e-a64a-339cb6be3f1c"

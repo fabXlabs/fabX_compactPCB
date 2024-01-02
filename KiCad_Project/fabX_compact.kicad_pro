@@ -57,23 +57,27 @@
         }
       ],
       "drc_exclusions": [
-        "silk_overlap|127420000|92842705|13c35842-ac67-4e8e-9e2f-42b0999c6c1b|761b177e-eb9b-449d-94ee-2313f1a346f3",
-        "silk_overlap|127420000|95380324|581a60ff-43da-4aaa-973c-5bba36662681|761b177e-eb9b-449d-94ee-2313f1a346f3",
-        "silk_overlap|127420000|97923499|a54761f1-8748-4f06-b13b-3780cbf4266a|761b177e-eb9b-449d-94ee-2313f1a346f3",
-        "silk_overlap|136757245|95380324|581a60ff-43da-4aaa-973c-5bba36662681|7639e46e-f246-4498-97a0-8e447ab55054",
-        "silk_overlap|136758436|92842705|13c35842-ac67-4e8e-9e2f-42b0999c6c1b|7639e46e-f246-4498-97a0-8e447ab55054",
-        "silk_overlap|136758833|97923499|a54761f1-8748-4f06-b13b-3780cbf4266a|7639e46e-f246-4498-97a0-8e447ab55054",
+        "copper_edge_clearance|120235000|135670000|32204141-8d60-4072-908d-3e8b3b15a609|2a39f2fa-0182-4599-81da-15121f5699f4",
+        "copper_edge_clearance|120235000|139070000|c717ccae-16d4-4e80-9038-bd79982669e0|8dfa3d7b-9e23-495f-b293-c686aecd6b9e",
+        "copper_edge_clearance|120235000|142470000|d4901d62-5c5c-428a-9315-493a87f5b9d5|036836fc-0303-4f20-9d02-257fcaad82dc",
+        "copper_edge_clearance|122765000|135670000|32204141-8d60-4072-908d-3e8b3b15a609|8cca7bf2-57bc-459e-8478-a324a43811af",
+        "copper_edge_clearance|122765000|139070000|c717ccae-16d4-4e80-9038-bd79982669e0|ee5c504d-125c-46a1-b8ac-120a0066208f",
+        "copper_edge_clearance|122765000|142470000|d4901d62-5c5c-428a-9315-493a87f5b9d5|44d18385-7c6c-4d9f-9109-5e2eb56bf09e",
+        "copper_edge_clearance|177035000|119770000|dc979e25-9bd8-4aa0-93d0-a142e30feda2|2fdbca4e-d039-4060-bc96-5990861ddc3b",
+        "copper_edge_clearance|179565000|119770000|dc979e25-9bd8-4aa0-93d0-a142e30feda2|aea16cc3-51ca-4262-9cdf-7df95e60f6d3",
+        "hole_clearance|120235000|135670000|32204141-8d60-4072-908d-3e8b3b15a609|2a39f2fa-0182-4599-81da-15121f5699f4",
+        "hole_clearance|120235000|139070000|c717ccae-16d4-4e80-9038-bd79982669e0|8dfa3d7b-9e23-495f-b293-c686aecd6b9e",
+        "hole_clearance|120235000|142470000|d4901d62-5c5c-428a-9315-493a87f5b9d5|036836fc-0303-4f20-9d02-257fcaad82dc",
+        "hole_clearance|122765000|135670000|32204141-8d60-4072-908d-3e8b3b15a609|8cca7bf2-57bc-459e-8478-a324a43811af",
+        "hole_clearance|122765000|139070000|c717ccae-16d4-4e80-9038-bd79982669e0|ee5c504d-125c-46a1-b8ac-120a0066208f",
+        "hole_clearance|122765000|142470000|d4901d62-5c5c-428a-9315-493a87f5b9d5|44d18385-7c6c-4d9f-9109-5e2eb56bf09e",
+        "hole_clearance|177035000|119770000|dc979e25-9bd8-4aa0-93d0-a142e30feda2|2fdbca4e-d039-4060-bc96-5990861ddc3b",
+        "hole_clearance|179565000|119770000|dc979e25-9bd8-4aa0-93d0-a142e30feda2|aea16cc3-51ca-4262-9cdf-7df95e60f6d3",
         "silk_overlap|163041167|80456501|3043d1eb-8d69-47c2-8a85-2b90ecb9a678|055aecf6-c130-47a1-8e11-dd7628ce53c0",
         "silk_overlap|163041564|85537295|3043d1eb-8d69-47c2-8a85-2b90ecb9a678|76ef085b-5f3e-4d4a-857e-03ac81d2d58e",
-        "silk_overlap|163041564|85537295|76ef085b-5f3e-4d4a-857e-03ac81d2d58e|3043d1eb-8d69-47c2-8a85-2b90ecb9a678",
-        "silk_overlap|163041564|86940000|76ef085b-5f3e-4d4a-857e-03ac81d2d58e|d666db2d-5688-4e66-83bc-1b88354bcd03",
-        "silk_overlap|163041564|86940000|d666db2d-5688-4e66-83bc-1b88354bcd03|76ef085b-5f3e-4d4a-857e-03ac81d2d58e",
         "silk_overlap|163042755|82999676|3043d1eb-8d69-47c2-8a85-2b90ecb9a678|c02ffacd-9fa7-4bbe-b0c2-8d7ccb76627f",
-        "silk_overlap|163042755|82999676|c02ffacd-9fa7-4bbe-b0c2-8d7ccb76627f|3043d1eb-8d69-47c2-8a85-2b90ecb9a678",
         "silk_overlap|172380000|81340938|af3dc5d1-28ce-445a-a5e6-26c25012e828|055aecf6-c130-47a1-8e11-dd7628ce53c0",
         "silk_overlap|172380000|83777050|af3dc5d1-28ce-445a-a5e6-26c25012e828|c02ffacd-9fa7-4bbe-b0c2-8d7ccb76627f",
-        "silk_overlap|172380000|83777050|c02ffacd-9fa7-4bbe-b0c2-8d7ccb76627f|af3dc5d1-28ce-445a-a5e6-26c25012e828",
-        "silk_overlap|172380000|86255169|76ef085b-5f3e-4d4a-857e-03ac81d2d58e|af3dc5d1-28ce-445a-a5e6-26c25012e828",
         "silk_overlap|172380000|86255169|af3dc5d1-28ce-445a-a5e6-26c25012e828|76ef085b-5f3e-4d4a-857e-03ac81d2d58e"
       ],
       "meta": {
@@ -395,18 +399,23 @@
     "rule_severities": {
       "bus_definition_conflict": "error",
       "bus_entry_needed": "error",
-      "bus_label_syntax": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
+      "conflicting_netclasses": "error",
       "different_unit_footprint": "error",
       "different_unit_net": "error",
       "duplicate_reference": "error",
       "duplicate_sheet_names": "error",
+      "endpoint_off_grid": "warning",
       "extra_units": "error",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
       "lib_symbol_issues": "warning",
+      "missing_bidi_pin": "warning",
+      "missing_input_pin": "warning",
+      "missing_power_pin": "error",
+      "missing_unit": "warning",
       "multiple_net_names": "warning",
       "net_not_bus_member": "warning",
       "no_connect_connected": "warning",
@@ -416,6 +425,7 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
+      "simulation_model_issue": "ignore",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -472,16 +482,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "HV",
-        "pattern": "/Relay_COM"
-      },
-      {
-        "netclass": "HV",
-        "pattern": "/Relay_NO"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
@@ -497,6 +498,8 @@
   "schematic": {
     "annotate_start_num": 0,
     "drawing": {
+      "dashed_lines_dash_length_ratio": 12.0,
+      "dashed_lines_gap_length_ratio": 3.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
@@ -528,7 +531,11 @@
     "page_layout_descr_file": "",
     "plot_directory": "plot/",
     "spice_adjust_passive_values": false,
+    "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
+    "spice_model_current_sheet_as_root": true,
+    "spice_save_all_currents": false,
+    "spice_save_all_voltages": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
